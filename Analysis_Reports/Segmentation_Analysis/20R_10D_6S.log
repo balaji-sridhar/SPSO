@@ -1,0 +1,303 @@
+C:\Users\sbala\Anaconda3\python.exe C:/Users/sbala/PycharmProjects/PSO/Pswarm_Test.py
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([  9.94952916e-01,  -1.10229287e-06,  -4.80652189e-07,
+        -7.82084682e-06,  -5.15622627e-06,  -1.22810553e-05,
+        -6.65815785e-06,   9.94950727e-01,   5.93321498e-06,
+         2.54326979e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 1.9899181977677056, 355)
+INFO:root:Non-segmented PSO global min 1.9899181977677056
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 2
+Total number of iterations in PSO Segmented : 1783
+INFO:root:Segmented PSO global min (array([ -9.94957098e-01,  -7.18602027e-06,   0.00000000e+00,
+(0.99495919326670723, 1.9899181977677056, 1, 0, 0.99495900450099839)
+         1.45003588e-05,   5.75342460e-06,  -7.33547512e-06,
+        -1.68067764e-05,  -3.16147124e-07,   3.44130772e-06,
+         6.38723874e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 0.99495919326670723, 264)
+INFO:root:Segment number which has global min is 2
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([ -9.25456983e-06,   1.59512319e-05,  -1.06006603e-05,
+         6.79942495e-06,  -1.46514588e-05,   1.41099989e-05,
+        -2.46275159e-06,   3.28704185e-06,   8.29048937e-06,
+        -1.53776515e-05]), 'Stopping search: Swarm best objective change less than 1e-08', 2.4492029204736809e-07, 291)
+INFO:root:Non-segmented PSO global min 2.449202920473681e-07
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 3
+INFO:root:Segmented PSO global min (array([  2.18729982e-06,   4.41758376e-06,  -1.53947847e-06,
+Total number of iterations in PSO Segmented : 1662
+         0.00000000e+00,  -1.51939305e-06,  -2.69838531e-06,
+(2.6232758187916261e-08, 2.4492029204736809e-07, 1, 0, 2.1868753385945183e-07)
+        -2.89618253e-06,   2.88728758e-06,   1.14798126e-06,
+         8.82754365e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 2.6232758187916261e-08, 234)
+INFO:root:Segment number which has global min is 2
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([  4.71466309e-05,   1.85996689e-05,  -3.64500349e-05,
+        -4.22326164e-06,   2.89265497e-05,  -6.07972998e-05,
+         3.27672524e-05,   3.89746442e-05,   9.94974482e-01,
+         2.41969432e-05]), 'Stopping search: Swarm best objective change less than 1e-08', 0.9949614134707403, 247)
+INFO:root:Non-segmented PSO global min 0.9949614134707403
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 4
+Total number of iterations in PSO Segmented : 1940
+INFO:root:Segmented PSO global min (array([ -2.08919510e-06,   3.89081955e-06,   3.81843704e-06,
+(1.6330494290173192e-08, 0.9949614134707403, 1, 0, 0.99496139714024601)
+         2.44524291e-06,   0.00000000e+00,   5.39769027e-06,
+        -1.54422328e-06,   2.72182708e-07,   2.51870704e-06,
+        -2.07694766e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 1.6330494290173192e-08, 289)
+INFO:root:Segment number which has global min is 2
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([ -1.16171947e-05,   3.39980876e-05,  -6.61305419e-06,
+         2.22236672e-05,  -2.61179395e-05,   3.46185199e-05,
+         7.65792683e-07,   1.36412778e-05,   1.17024639e-05,
+         9.94953921e-01]), 'Stopping search: Swarm best objective change less than 1e-08', 0.99495986155178429, 219)
+INFO:root:Non-segmented PSO global min 0.9949598615517843
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 6
+INFO:root:Segmented PSO global min (array([ -2.63568871e-07,   3.06172447e-05,   2.26759089e-06,
+Total number of iterations in PSO Segmented : 1643
+        -1.13440694e-05,  -1.01851033e-05,  -4.42354368e-06,
+         0.00000000e+00,   1.29142821e-05,  -8.35979780e-06,
+(2.8493418824382388e-07, 0.99495986155178429, 1, 0, 0.99495957661759604)
+        -2.22115299e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 2.8493418824382388e-07, 302)
+INFO:root:Segment number which has global min is 3
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([ -2.57457121e-06,   9.94957806e-01,  -2.58834448e-06,
+         9.94955231e-01,   2.29093150e-06,   2.53139720e-06,
+         4.60916079e-06,  -3.06664437e-06,  -9.94990273e-01,
+        -3.93216870e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 2.984877386271636, 316)
+INFO:root:Non-segmented PSO global min 2.984877386271636
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 6
+Total number of iterations in PSO Segmented : 1541
+INFO:root:Segmented PSO global min (array([  3.14630008e-05,   4.36289733e-05,   1.86531632e-05,
+(0.99496088870002453, 2.984877386271636, 1, 0, 1.9899164975716115)
+         3.74281140e-05,   7.49084091e-06,  -9.94967112e-01,
+         0.00000000e+00,  -5.02546084e-05,   1.24537165e-05,
+        -4.22082211e-05]), 'Stopping search: Swarm best objective change less than 1e-08', 0.99496088870002453, 216)
+INFO:root:Segment number which has global min is 3
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([  7.12434425e-06,   1.75820162e-07,  -8.13004172e-06,
+         5.01157889e-06,  -9.94966205e-01,   3.00455869e-06,
+        -9.94951956e-01,  -7.14574914e-06,  -1.84393490e-05,
+         3.07120073e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 1.9899182438137544, 334)
+INFO:root:Non-segmented PSO global min 1.9899182438137544
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 6
+Total number of iterations in PSO Segmented : 1841
+INFO:root:Segmented PSO global min (array([  9.22110942e-07,  -5.44937702e-06,  -9.94960287e-01,
+(1.9899181752820319, 1.9899182438137544, 1, 0, 6.8531722519082905e-08)
+         3.24635782e-08,   9.94948915e-01,  -8.12876729e-06,
+         0.00000000e+00,   8.76997690e-06,   3.97476924e-07,
+         6.08792215e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 1.9899181752820319, 325)
+INFO:root:Segment number which has global min is 2
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([ -1.05988045e-05,  -4.38737409e-06,  -5.18314384e-06,
+        -4.35102050e-06,  -3.51952263e-06,   8.44813948e-06,
+         3.07895246e-07,  -2.63836472e-06,  -9.94955984e-01,
+        -5.34599309e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 0.99495911736741505, 289)
+INFO:root:Non-segmented PSO global min 0.994959117367415
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 1
+Total number of iterations in PSO Segmented : 1519
+INFO:root:Segmented PSO global min (array([ -4.84601824e-06,   0.00000000e+00,   1.98254124e-06,
+(2.2460872273200039e-08, 0.99495911736741505, 1, 0, 0.99495909490654277)
+         1.53361969e-06,   7.87860430e-06,  -1.08030607e-06,
+        -4.28791124e-06,   3.26837991e-07,  -2.85851067e-07,
+        -1.27827903e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 2.2460872273200039e-08, 231)
+INFO:root:Segment number which has global min is 2
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([  9.94968466e-01,  -1.16530268e-05,  -9.94954170e-01,
+         7.17716621e-06,   9.94959294e-01,  -1.37591900e-05,
+         5.67767841e-06,   5.80330548e-06,  -6.72426244e-07,
+        -9.94952945e-01]), 'Stopping search: Swarm best objective change less than 1e-08', 3.9798363458827684, 295)
+INFO:root:Non-segmented PSO global min 3.9798363458827684
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 9
+INFO:root:Segmented PSO global min (array([  1.30549504e-06,   2.87647177e-06,   9.94957889e-01,
+Total number of iterations in PSO Segmented : 1962
+         3.48843597e-06,  -1.11886594e-06,  -9.94958409e-01,
+(1.9899181252277973, 3.9798363458827684, 1, 0, 1.989918220654971)
+        -2.51173601e-06,   3.36169616e-06,  -3.74583340e-06,
+         0.00000000e+00]), 'Stopping search: Swarm best objective change less than 1e-08', 1.9899181252277973, 383)
+INFO:root:Segment number which has global min is 3
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([ -2.87256429e-07,  -9.94963584e-01,  -2.71260942e-06,
+         2.06106641e-07,   2.87581730e-06,  -2.16195021e-06,
+        -1.38881452e-06,  -9.39118594e-06,   4.54407772e-06,
+         3.12189693e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 0.99495908990751936, 311)
+INFO:root:Non-segmented PSO global min 0.9949590899075194
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 7
+Total number of iterations in PSO Segmented : 1776
+INFO:root:Segmented PSO global min (array([  4.17502825e-06,  -7.49150761e-06,   2.57420202e-05,
+(1.8451689420828643e-07, 0.99495908990751936, 1, 0, 0.99495890539062515)
+        -7.86224137e-06,  -8.42559369e-06,   1.99389671e-06,
+        -3.31982545e-06,   0.00000000e+00,  -3.48012127e-06,
+         5.82606414e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 1.8451689420828643e-07, 374)
+INFO:root:Segment number which has global min is 3
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([ -1.71110555e-05,  -2.58789137e-05,   2.97931052e-05,
+         4.18258635e-07,  -1.42357357e-05,  -1.19077325e-05,
+         1.37131993e-05,   1.85668586e-05,   1.07050835e-06,
+        -1.32953818e-05]), 'Stopping search: Swarm best objective change less than 1e-08', 5.764190760260135e-07, 231)
+INFO:root:Non-segmented PSO global min 5.764190760260135e-07
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 6
+Total number of iterations in PSO Segmented : 1677
+INFO:root:Segmented PSO global min (array([  1.61425886e-06,  -8.71018922e-06,   6.24006764e-06,
+(0.99495925200685775, 5.764190760260135e-07, 0, 1, -0.99495867558778173)
+         1.57120865e-05,  -1.09821849e-05,   8.24438351e-06,
+         0.00000000e+00,   6.86860926e-06,  -1.88782126e-05,
+        -9.94963742e-01]), 'Stopping search: Swarm best objective change less than 1e-08', 0.99495925200685775, 203)
+INFO:root:Segment number which has global min is 2
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([ -1.30396389e-06,  -7.68367985e-07,  -1.47256267e-05,
+         1.76469671e-06,  -5.91302307e-06,  -5.83842567e-06,
+        -1.34456754e-05,  -1.74968615e-05,   2.98791303e-06,
+         8.85003987e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 1.7170382626829905e-07, 218)
+INFO:root:Non-segmented PSO global min 1.7170382626829905e-07
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 5
+Total number of iterations in PSO Segmented : 1921
+INFO:root:Segmented PSO global min (array([ -8.55442510e-07,   4.73731600e-06,   1.24897197e-05,
+(0.99495912308548995, 1.7170382626829905e-07, 0, 1, -0.99495895138166368)
+        -8.14283501e-06,   1.84249719e-06,  -9.94957987e-01,
+        -5.26269358e-06,   5.77501234e-06,  -1.44616488e-06,
+         4.49512608e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 0.99495912308548995, 273)
+INFO:root:Segment number which has global min is 2
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([ -1.66079078e-06,  -5.24304842e-07,  -2.01033918e-05,
+         1.50483690e-05,  -2.17385357e-05,  -4.80685476e-07,
+        -4.06387301e-07,   4.19665404e-06,   2.09291394e-06,
+         3.49002457e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 2.2631885165935728e-07, 289)
+INFO:root:Non-segmented PSO global min 2.2631885165935728e-07
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 6
+Total number of iterations in PSO Segmented : 1953
+INFO:root:Segmented PSO global min (array([ -3.07276858e-06,   2.33455407e-06,   9.94961213e-01,
+(2.9848775987703977, 2.2631885165935728e-07, 0, 1, -2.9848773724515461)
+         1.28966062e-05,  -9.94940676e-01,   2.85389007e-05,
+        -9.94958802e-01,  -3.98366081e-06,  -4.33265481e-06,
+        -2.82014572e-05]), 'Stopping search: Swarm best objective change less than 1e-08', 2.9848775987703977, 346)
+INFO:root:Segment number which has global min is 2
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([ -1.55125661e-05,  -1.24927926e-06,  -1.12058823e-05,
+         9.94974699e-01,   9.94962089e-01,   1.11753235e-05,
+        -3.08522585e-06,  -1.39337586e-05,   5.02912564e-06,
+        -1.13223439e-05]), 'Stopping search: Swarm best objective change less than 1e-08', 1.9899183362959505, 333)
+INFO:root:Non-segmented PSO global min 1.9899183362959505
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 4
+Total number of iterations in PSO Segmented : 1619
+INFO:root:Segmented PSO global min (array([ -2.96179706e-06,   8.22951806e-06,   1.29505151e-06,
+        -3.32617846e-06,   0.00000000e+00,  -4.70949918e-06,
+(6.834229893115662e-08, 1.9899183362959505, 1, 0, 1.9899182679536516)
+         3.05101449e-06,   6.58628392e-06,  -1.32304717e-05,
+        -2.30880036e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 6.834229893115662e-08, 265)
+INFO:root:Segment number which has global min is 3
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([ -2.10150250e-05,  -9.19364987e-06,   4.98735302e-05,
+        -2.83501476e-06,   1.29606355e-05,   1.94775913e-05,
+        -4.58938537e-06,   1.22421342e-05,  -4.03940554e-06,
+         1.04832255e-05]), 'Stopping search: Swarm best objective change less than 1e-08', 7.6699621764930725e-07, 279)
+INFO:root:Non-segmented PSO global min 7.669962176493073e-07
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 6
+INFO:root:Segmented PSO global min (array([  1.98970170e-06,   3.92080988e-06,  -2.44494205e-06,
+Total number of iterations in PSO Segmented : 1751
+         4.59013341e-06,   9.94961862e-01,  -1.51383039e-05,
+(0.9949591333160388, 7.6699621764930725e-07, 0, 1, -0.99495836631982115)
+         0.00000000e+00,   9.40988646e-06,   3.03780307e-06,
+         7.01189595e-07]), 'Stopping search: Swarm best objective change less than 1e-08', 0.9949591333160388, 327)
+INFO:root:Segment number which has global min is 3
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([  3.40100836e-06,   9.94962503e-01,  -4.74314748e-07,
+        -1.92957230e-06,  -2.88033033e-07,  -3.91072887e-06,
+         4.70394395e-07,   6.36078192e-07,  -9.94956703e-01,
+         2.22131136e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 1.9899181251232534, 269)
+INFO:root:Non-segmented PSO global min 1.9899181251232534
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 3
+Total number of iterations in PSO Segmented : 1757
+INFO:root:Segmented PSO global min (array([ -5.83935185e-07,   6.02005539e-06,   2.94355907e-06,
+(0.99495910310143465, 1.9899181251232534, 1, 0, 0.99495902202181874)
+        -9.94949927e-01,  -3.92099967e-06,  -2.93213011e-06,
+         5.40818423e-06,  -3.93209415e-06,  -3.83708073e-06,
+         5.23597200e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 0.99495910310143465, 317)
+INFO:root:Segment number which has global min is 2
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([  1.01036836e-05,   2.66099613e-05,  -8.11401079e-06,
+         1.55760705e-05,  -1.18265318e-06,   8.96233624e-06,
+        -9.94949775e-01,  -1.92750246e-05,  -8.40643007e-06,
+        -3.90626640e-07]), 'Stopping search: Swarm best objective change less than 1e-08', 0.99495939856772786, 297)
+INFO:root:Non-segmented PSO global min 0.9949593985677279
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 4
+INFO:root:Segmented PSO global min (array([  2.14131747e-07,  -7.82097665e-06,   4.01765381e-06,
+Total number of iterations in PSO Segmented : 1666
+        -9.94957702e-01,   0.00000000e+00,  -9.94956541e-01,
+(1.9899181404716089, 0.99495939856772786, 0, 1, -0.99495874190388101)
+         6.04533813e-06,   2.89594609e-06,   2.21430222e-06,
+        -1.74024569e-07]), 'Stopping search: Swarm best objective change less than 1e-08', 1.9899181404716089, 270)
+INFO:root:Segment number which has global min is 2
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([  8.20901228e-06,   2.06249905e-05,  -1.42339407e-05,
+         8.65202253e-07,  -1.92988322e-05,   9.94937536e-01,
+         9.86465877e-06,   1.62026450e-05,  -2.27305877e-06,
+        -9.94960314e-01]), 'Stopping search: Swarm best objective change less than 1e-08', 1.989918487453318, 222)
+INFO:root:Non-segmented PSO global min 1.989918487453318
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 8
+INFO:root:Segmented PSO global min (array([ -8.56451194e-06,   5.99026918e-06,  -6.37225720e-06,
+Total number of iterations in PSO Segmented : 1674
+(0.99495912909311102, 1.989918487453318, 1, 0, 0.99495935836020699)
+        -1.72589354e-06,  -5.19131191e-06,  -9.94965279e-01,
+         9.78242025e-06,   2.21653192e-06,   0.00000000e+00,
+        -6.20095175e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 0.99495912909311102, 258)
+INFO:root:Segment number which has global min is 3
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([  9.94964262e-01,  -1.26322711e-05,   5.57160565e-06,
+        -1.26941022e-05,  -9.94952289e-01,   3.11260613e-06,
+        -9.52397283e-06,  -9.94972893e-01,   1.68504926e-06,
+         3.80419583e-05]), 'Stopping search: Swarm best objective change less than 1e-08', 2.9848776032225555, 233)
+INFO:root:Non-segmented PSO global min 2.9848776032225555
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 7
+Total number of iterations in PSO Segmented : 1628
+INFO:root:Segmented PSO global min (array([  1.29318906e-05,   3.18433142e-06,  -1.11632174e-06,
+        -1.08606023e-05,  -2.36536153e-07,   4.70385268e-06,
+(1.0022649732377431e-07, 2.9848776032225555, 1, 0, 2.9848775029960581)
+         1.18556015e-05,   0.00000000e+00,   5.77901594e-06,
+        -3.53368132e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 1.0022649732377431e-07, 254)
+INFO:root:Segment number which has global min is 2
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([ -1.35384803e-06,   9.94964217e-01,  -2.18903184e-06,
+         4.55440071e-07,  -2.31107679e-06,  -2.54336819e-06,
+        -2.78469216e-06,   9.94955181e-01,  -5.47653547e-06,
+         5.97232211e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 1.9899181409924775, 308)
+INFO:root:Non-segmented PSO global min 1.9899181409924775
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 1
+Total number of iterations in PSO Segmented : 1836
+INFO:root:Segmented PSO global min (array([  1.46620249e-06,   0.00000000e+00,   2.42497414e-06,
+         1.41302254e-06,  -4.27893363e-06,   3.74989530e-07,
+(0.99495906752394525, 1.9899181409924775, 1, 0, 0.9949590734685323)
+         1.29140622e-06,  -2.71286079e-06,   9.94962417e-01,
+         8.90528752e-07]), 'Stopping search: Swarm best objective change less than 1e-08', 0.99495906752394525, 268)
+INFO:root:Segment number which has global min is 3
+INFO:root:Solving the function using standard PSO
+INFO:root:PSO result for non-segmented is (array([  9.94952350e-01,  -5.07159264e-06,  -1.30102586e-05,
+         9.94965806e-01,  -9.94950299e-01,   9.94964400e-01,
+        -1.08240054e-05,  -3.37425952e-06,  -2.21814398e-06,
+        -3.26635707e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 3.9798363340530649, 293)
+INFO:root:Non-segmented PSO global min 3.979836334053065
+INFO:root:Solving the function using Segmented PSO
+INFO:root:Dimension to be segmented : 3
+INFO:root:Segmented PSO global min (array([ -1.17138180e-06,  -2.72894856e-07,  -4.81049323e-06,
+         0.00000000e+00,  -9.94961474e-01,  -1.86200151e-06,
+        -6.42242237e-07,  -9.94961033e-01,   1.28275286e-06,
+        -2.45712506e-06]), 'Stopping search: Swarm best objective change less than 1e-08', 1.9899181240918669, 302)
+INFO:root:Segment number which has global min is 2
+Total number of iterations in PSO Segmented : 1782
+(1.9899181240918669, 3.9798363340530649, 1, 0, 1.9899182099611981)
+
+Process finished with exit code 0
